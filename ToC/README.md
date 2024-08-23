@@ -17,3 +17,9 @@ Example name used: TTRPG
    1. Apply the "MoCAndToC" template
 3. Create files in the directory 
    1. Apply the "MoCAndToC" template
+
+## Plugins
+
+Haven't yet tested the exact plugins I use but I assume it requires
+* Dataview
+* JS Engine
